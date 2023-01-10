@@ -1,1 +1,1 @@
-# Pre-render vs Server-Side
+# Next.js - Pre-render vs Server-Side
